@@ -1,0 +1,10 @@
+print("Operadores de comparacion")
+
+presupuesto1 = float(input("Primer Presupuesto:"))
+presupuesto2 = float(input("Segundo Presupuesto:"))
+print(presupuesto1, "==", presupuesto2, presupuesto1 == presupuesto2)
+print(presupuesto1, "!=", presupuesto2, presupuesto1 != presupuesto2)
+print(presupuesto1, ">", presupuesto2, presupuesto1 > presupuesto2)
+print(presupuesto1, "<=", presupuesto2, presupuesto1 < presupuesto2)
+print(presupuesto1, ">=", presupuesto2, presupuesto1 > presupuesto2)
+print(presupuesto1, "<=", presupuesto2, presupuesto1 < presupuesto2)
